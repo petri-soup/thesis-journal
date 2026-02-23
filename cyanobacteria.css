@@ -19,6 +19,11 @@ body {
 
 }
 
+* { 
+	box-sizing: border-box;
+	scrollbar-color: #7ab85f #a9d17d;
+}
+
 .ascii-art {
   font-family: monospace;
   white-space: pre;
